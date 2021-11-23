@@ -1,2 +1,4 @@
 Wellcome to Git.
 We have completed our first commit. It's amazing.
+We have learnt a lot about git..
+Now we can start using git and git hub...
