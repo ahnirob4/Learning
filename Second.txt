@@ -1,3 +1,0 @@
-We are learning git and this is awesome...
-
-Now we are going to learn about diff command.
